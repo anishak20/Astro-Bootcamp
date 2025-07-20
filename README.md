@@ -1,2 +1,2 @@
 # Astronomy Bootcamp
-Resources from the Astronomy Bootcamp (June–July 2024), Nehru Planetarium, New Delhi.
+This repository contains all the Jupyter Notebooks and resources from the **Astronomy Bootcamp** held in **June–July 2024** at **Nehru Planetarium, New Delhi**.
